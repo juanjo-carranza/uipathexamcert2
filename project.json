@@ -1,0 +1,12 @@
+{
+  "description": "2nd Oportunity Certification Exam",
+  "version": "2016.2.6274.33252",
+  "main": "Main.xaml",
+  "id": "Exam_UiPathCert2",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
